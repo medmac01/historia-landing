@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Personalised Trip</h4>
-              <p className="text-lg text-gray-400 text-center">"Elevate your travel experience with our Personalized Plans. When you're in a new city, our app curates the perfect itinerary, suggesting top places to visit and exciting activities. Say goodbye to guesswork and hello to a stress-free adventure."</p>
+              <p className="text-lg text-gray-400 text-center">Elevate your travel experience with our Personalized Plans. When you're in a new city, our app curates the perfect itinerary, suggesting top places to visit and exciting activities. Say goodbye to guesswork and hello to a stress-free adventure.</p>
             </div>
 
             {/* 2nd item */}
