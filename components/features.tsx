@@ -32,7 +32,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Real-time information</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Stay updated with instant weather changes, event updates, and itinerary adjustments. Travel confidently with real-time information.</p>
             </div>
 
             {/* 3rd item */}
@@ -46,7 +46,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Supports various languages</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Enjoy your journey in your preferred language. Our app offers multilingual support for a seamless travel experience.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">AI Assistance</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">AI StoryTeller</h4>
+              <p className="text-lg text-gray-400 text-center">Your interactive guide to history. Engage vocally or via text, and explore the past with rich stories and images at historical sites.</p>
             </div>
 
             {/* 5th item */}
@@ -72,7 +72,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Activities Recommendation</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Discover personalized adventures. Our app recommends activities aligned with your interests for a memorable journey.</p>
             </div>
 
             {/* 6th item */}
@@ -86,7 +86,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Emergency Services</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Your safety is our priority. Access essential emergency services information and contact details within our app, providing peace of mind while you explore.</p>
             </div>
 
           </div>
