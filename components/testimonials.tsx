@@ -1,8 +1,10 @@
 import Image from 'next/image'
 
-import TestimonialImage01 from '@/public/images/testimonial-01.jpg'
-import TestimonialImage02 from '@/public/images/testimonial-02.jpg'
-import TestimonialImage03 from '@/public/images/testimonial-03.jpg'
+import TestimonialImage01 from '@/public/images/Khadija.JPG'
+import TestimonialImage02 from '@/public/images/Firdawse.jpeg'
+import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
+import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
+import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
 
 export default function Testimonials() {
   return (
@@ -17,7 +19,7 @@ export default function Testimonials() {
           </div>
 
           {/* Testimonials */}
-          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-3 lg:gap-6 items-start lg:max-w-none">
+          <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-5 lg:gap-6 items-start lg:max-w-none">
 
             {/* 1st testimonial */}
             <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up">
