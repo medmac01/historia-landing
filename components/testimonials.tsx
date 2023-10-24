@@ -3,8 +3,8 @@ import Image from 'next/image'
 import TestimonialImage01 from '@/public/images/Khadija.JPG'
 import TestimonialImage02 from '@/public/images/Firdawse.jpeg'
 import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
-import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
-import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
+import TestimonialImage03 from '@/public/images/Mechrouh.jpeg'
+import TestimonialImage03 from '@/public/images/ravelle.png'
 
 export default function Testimonials() {
   return (
