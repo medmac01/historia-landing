@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import TestimonialImage01 from '@/public/images/Khadija.JPG'
+import TestimonialImage01 from '@/public/images/Khadija.jpg'
 import TestimonialImage02 from '@/public/images/Firdawse.jpeg'
 import TestimonialImage03 from '@/public/images/Ghizlane.jpeg'
 import TestimonialImage04 from '@/public/images/Mechrouh.jpeg'
@@ -33,7 +33,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— Meet Khadija, final year AI student, uses her tech skills to personalize your trip. Her passion for deep learning and natural language processing drives our personalized trip planning and AI Storyteller features.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
@@ -49,7 +49,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— Firdawse is our AI guru, also in his final year of AI studies. His expertise in data analysis and algorithms ensures the real-time information feature is always up-to-date, providing users with essential travel details.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">Ghizlane, brings the business acumen to the team as a final year business student. Her expertise in market analysis, strategy, and innovation ensures our project is not just technologically advanced but also user-friendly and commercially viable.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Business Strategist</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Business Strategist</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
@@ -81,7 +81,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">Mohammed is our AI extraordinaire. With a passion for user experience, his final year AI studies are integral to the AI Storyteller, enabling vocal and text interactions at historical sites.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
@@ -97,7 +97,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">Ravelle, another final year AI student, is the creative force behind our activities recommendation feature. Her flair for AI-driven recommendations tailored to your interests makes your journey truly unique.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">AI Engineer</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
